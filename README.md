@@ -2,7 +2,7 @@
 
 *CSE student at College of Engineering Chengannur*
 
-<div id="header" align="left">
+<div id="header">
   <img align='centre' src="https://media.tenor.com/odJWfiDo3ZkAAAAC/working-busy.gif"/>
 </div>
 
