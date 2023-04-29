@@ -1,14 +1,14 @@
 # Hi there, I'm Vismaya Prasad 👋
 
-*CSE student at College of Engineering Chengannur*
+<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a></p>
 
-<div id="header">
-  <img align='centre' src="https://media.tenor.com/odJWfiDo3ZkAAAAC/working-busy.gif"/>
-</div>
+<img src="https://media.tenor.com/odJWfiDo3ZkAAAAC/working-busy.gif" align='middle'>
 
-<div id="header" align="left">
+
+
+<!--div id="header" align="left">
   <img src="https://img.shields.io/badge/Profile%20Views-278-blue"/>
-</div>
+</div-->
 
 
 
