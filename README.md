@@ -1,9 +1,9 @@
-*# Hi there, I'm Vismaya Prasad 👋*
+# Hi there, I'm Vismaya Prasad 👋
 
 *CSE student at College of Engineering Chengannur*
 
 <div id="header" align="left">
-  <img src="https://media.tenor.com/odJWfiDo3ZkAAAAC/working-busy.gif"/>
+  <img align='centre' src="https://media.tenor.com/odJWfiDo3ZkAAAAC/working-busy.gif"/>
 </div>
 
 <div id="header" align="left">
