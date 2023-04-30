@@ -1,7 +1,6 @@
 <h2>Heyy There, I'm Vismaya 👋! </h2>
 <img align='middle' src="https://media.tenor.com/odJWfiDo3ZkAAAAC/working-busy.gif">
-<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)-->
 [![Linkedin: Vismaya](https://img.shields.io/badge/-Vismaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vismaya/)](https://www.linkedin.com/in/vismaya-prasad-48321b201)
