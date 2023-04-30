@@ -4,8 +4,8 @@
 </em></p>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)-->
-[![Linkedin: Akash](https://img.shields.io/badge/-Vismaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vismaya/)](https://www.linkedin.com/in/vismaya-prasad-48321b201)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://akkupy.github.io/)](https://akkupy.me)
+[![Linkedin: Vismaya](https://img.shields.io/badge/-Vismaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vismaya/)](https://www.linkedin.com/in/vismaya-prasad-48321b201)
+
 ![GitHub followers](https://img.shields.io/github/followers/vismaya2002?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=vismaya2002&color=blue)
 
