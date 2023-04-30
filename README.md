@@ -43,11 +43,11 @@ akash = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```-->
-[![](https://github-readme-streak-stats.herokuapp.com?user=akkupy&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=vismaya2002&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=CCD0DD&ring=C62A2A&dates=DDDDDD)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=akkupy&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=vismaya2002&show_icons=true&theme=dark)
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkupy&layout=compact&theme=dark&hide_border=true" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismaya2002&layout=compact&theme=dark&hide_border=true" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
