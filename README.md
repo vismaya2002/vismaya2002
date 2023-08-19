@@ -3,8 +3,7 @@
 <p><em>CSE Student at <a href="https://ceconline.edu/">College Of Engineering Chengannur</a>
 
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/akkupy?label=Follow)](https://twitter.com/intent/follow?screen_name=akkupy)-->
-[![Linkedin: Vismaya](https://img.shields.io/badge/-Vismaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vismaya/)]
-(https://www.linkedin.com/in/vismaya-prasad-48321b201)
+[![Linkedin: Vismaya](https://img.shields.io/badge/-Vismaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Vismaya/)(https://www.linkedin.com/in/vismaya-prasad-48321b201)
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://vizmaya.tech/)](https://vizmaya.tech)
 
 ![GitHub followers](https://img.shields.io/github/followers/vismaya2002?label=Follow&style=social)
